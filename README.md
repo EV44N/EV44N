@@ -9,7 +9,7 @@
 
 # About ME 💬 :
 
-### - Hey I'm Ayoub, a young future software engineer from Morocco .
+### - Hey I'm **ayoub**, a young developer from Morocco .
 
 <img hight="350" width="500" alt="GIF" align="right" src="https://c.tenor.com/QpTLQALtdskAAAAi/hii-wave.gif">
 
@@ -18,7 +18,7 @@
 - 🐉 back-end development 
 
 ### - Hobbies : 
-- 🐉 Gaming
+- 🐉 Playing games
 - 🐉 Watching Films
 - 🐉 Reading
 - 🐉 (Sleeping xD)
