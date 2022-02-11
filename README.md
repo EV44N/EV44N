@@ -11,7 +11,7 @@
 
 ### - Hey I'm Ayoub, a young future software engineer from Morocco .
 
-<img hight="350" width="500" alt="GIF" align="right" src="https://tenor.com/view/cat-cute-animals-hello-there-gif-11875188.gif">
+<img hight="350" width="500" alt="GIF" align="right" src="https://c.tenor.com/QpTLQALtdskAAAAi/hii-wave.gif">
 
 ### - Learning :
 - 🐉 Data Structures & Algorithms
