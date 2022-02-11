@@ -9,7 +9,7 @@
 
 # About ME 💬 :
 
-### - Hey I'm **ayoub**, a young developer from Morocco .
+### - Hey I'm ayoub, young boy from Morocco, nothing special !
 
 <img hight="350" width="500" alt="GIF" align="right" src="https://c.tenor.com/QpTLQALtdskAAAAi/hii-wave.gif">
 
