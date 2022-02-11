@@ -9,7 +9,7 @@
 
 # About ME 💬 :
 
-### - Hi I'm Ayoub, a Machine Learning & Artificial Intelligence Enthusiast from Morocco.
+### - Hey I'm Ayoub, a young future software engineer from Morocco .
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
