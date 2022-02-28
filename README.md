@@ -14,14 +14,14 @@
 <img hight="350" width="500" alt="GIF" align="right" src="https://c.tenor.com/QpTLQALtdskAAAAi/hii-wave.gif">
 
 ### - Learning :
-- 🐉 Data Structures & Algorithms
-- 🐉 back-end development 
+- 🐊 Data Structures & Algorithms
+- 🐊 back-end development 
 
 ### - Hobbies : 
-- 🐉 Playing games
-- 🐉 Watching Films
-- 🐉 Reading
-- 🐉 (Sleeping xD)
+- 🐊 Playing games
+- 🐊 Watching Films
+- 🐊 Reading
+- 🐊 (Sleeping xD)
 </br>
 
 
