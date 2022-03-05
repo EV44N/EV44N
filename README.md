@@ -25,11 +25,11 @@
 </br>
 
 
-# Languages and Tools:
+<!-- # Languages and Tools:
 
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="25px" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="25px"  src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png"> </a>
 <!-- <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> <img align="left" alt="React" height ="25px" src="https://seeklogo.com/images/F/flask-logo-44C507ABB7-seeklogo.com.png"></a> -->
 <a href="https://www.cplusplus.com/" target="_blank"><img align="left" alt="c++" height ="25px" src="https://seeklogo.com/images/C/c-logo-1B1817C041-seeklogo.com.png"></a>
 <a href="https://git-scm.com/" target="_blank"><img align="left" alt="git" height ="25px" src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png"></a>
-<!-- <a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img align="left" alt="dotnet" height ="25px" src="https://seeklogo.com/images/M/microsoft-net-framework-logo-B9BA1A3DA1-seeklogo.com.png"></a> -->
+<!-- <a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img align="left" alt="dotnet" height ="25px" src="https://seeklogo.com/images/M/microsoft-net-framework-logo-B9BA1A3DA1-seeklogo.com.png"></a> --> -->
